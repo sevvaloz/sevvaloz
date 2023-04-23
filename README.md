@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Android Mobile App Development.<br>🌱 I’m currently learning Swift and iOS Mobile App Development.<br>💬 Ask me anything about Mobile App Development.<br>📫 Reach me here: ozdamarsevval.01@gmail.com
 
 
