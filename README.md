@@ -1,5 +1,5 @@
 # 💫 About Me
-🌱 I’m currently learning Android Mobile Development and iOS Mobile App Development.<br>📫 Reach me: ozdamarsevval.01@gmail.com
+🌱 I’m currently learning Mobile App Development (Android, iOS, Flutter) <br>📫 Reach me: ozdamarsevval.01@gmail.com
 
 
 # 🌐 Socials
@@ -7,10 +7,6 @@
 
 # 💻 Tech Stack
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sevvaloz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sevvaloz&theme=radical&hide_border=true)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sevvaloz&icon=0&color=0)](https://visitcount.itsvg.in)
