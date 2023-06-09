@@ -1,5 +1,5 @@
 ## 💫 About Me
-I’m currently working on Android mobile app development<br>I'm currently learning iOS mobile app development<br>Reach me: ozdamarsevval.01@gmail.com
+I’m currently working on Android mobile app development.<br>I'm currently learning iOS & Flutter.<br>Reach me: ozdamarsevval.01@gmail.com
 
 
 ## 🌐 Socials
