@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi! I have been developing Android mobile applications with Kotlin for one year and I have recently started learning iOS development with Swift.
+Hi! I am a senior student in the department of Computer Engineering. I love developing Android mobile applications with Kotlin for Android and Swift for iOS.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/%C5%9Fevval-%C3%B6zdamar-945120201/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozdamarsevval) 
