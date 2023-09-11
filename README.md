@@ -1,5 +1,5 @@
 ## 💫 About Me
-Hi! I am a senior student in the department of Computer Engineering. I love developing mobile applications with Kotlin for Android and Swift for iOS.
+Hi, I am a senior student in the department of Computer Engineering. I love developing mobile applications with Kotlin for Android and I am also learning iOS development with Swift.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/%C5%9Fevval-%C3%B6zdamar-945120201/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozdamarsevval) 
