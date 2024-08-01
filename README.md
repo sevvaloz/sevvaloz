@@ -1,6 +1,6 @@
 ## 👩🏽‍💻 About Me
 ▫ Hi there! <br/>
-▫️ I am a computer engineer. <br/>
+▫️ I am a computer engineer and I am currently working as an Android developer. <br/>
 ▫️ My passion is developing mobile applications. <br/>
 ▫️ I am constantly improving my skills on Android, Kotlin and Java. <br/>
 ▫️ I am also learning iOS development with Swift.
