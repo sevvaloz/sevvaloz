@@ -1,9 +1,9 @@
 ## 👩🏽‍💻 About Me
-▫ Hey there! <br/>
-▫️ I am a senior student in the department of Computer Engineering. <br/>
+▫ Hi there! <br/>
+▫️ I am a computer engineer. <br/>
 ▫️ My passion is developing mobile applications. <br/>
-▫️ I am currently working as Android Developer Intern, improving my Android, Kotlin and Java skills. <br/>
-▫️ On the other hand, I'm learning iOS development with Swift.
+▫️ I am constantly improving my skills on Android, Kotlin and Java. <br/>
+▫️ I am also learning iOS development with Swift.
 
 ## 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/%C5%9Fevval-%C3%B6zdamar-945120201/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozdamarsevval) 
